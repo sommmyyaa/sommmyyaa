@@ -6,6 +6,9 @@
 
 **B.Tech CSE (AI Specialization) Student** | Aspiring Data Analyst & AI Intern | Python · SQL · Power BI · scikit-learn · PyTorch · LangChain
 
+<h3 align="center">🤖 Data Analyst & Data Scientist | Turning Data into Insights 🚀</h3>
+
+
 <a href="https://github.com/sommmyyaa">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;Building+with+Python+%26+Power+BI;Exploring+ML+%2F+LLM+agent+workflows;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
