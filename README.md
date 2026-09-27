@@ -117,7 +117,7 @@ somya = {
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 💰 **Loan Approval Predictor** | ML model predicting loan approval (~79% accuracy), deployed as a live app. | ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [Live App](https://loan-approval-predictor-5napfgjoxat4ywna6resgv.streamlit.app) · [Repo](https://github.com/Sameepmadan/loan-approval-predictor) |
-| 📊 **Daily Goods Sales Dashboard** | Power BI dashboard analyzing dairy/daily-goods sales trends. | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | — |
+| 📊 **Daily Goods Sales Dashboard** | Power BI dashboard analyzing dairy/daily-goods sales trends. | ![PowerBI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | [Repo](https://github.com/sommmyyaa/DAIRY-GOODS-DASHBOARD) |
 | 🧩 **BizInsight AI** | Research project — a configurable AI business analyst for decision support. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-blueviolet?style=flat-square) | — |
 | 🤖 **Multi-Agent Debater** | Multi-agent LLM system exploring agentic debate/reasoning workflows. | ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) | [Repo](https://github.com/Vidushi-code/Debater) |
 
